@@ -1,4 +1,3 @@
-# Personal Loan Data Analysis Project
 # **Personal Loan Data Analysis Project**
 
 ### Project Overview
